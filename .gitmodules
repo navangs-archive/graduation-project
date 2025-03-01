@@ -1,0 +1,12 @@
+[submodule "maribong"]
+	path = maribong
+	url = https://github.com/insertend23/maribong.git
+[submodule "maribong-review-model"]
+	path = maribong-review-model
+	url = https://github.com/insertend23/maribong-review-model.git
+[submodule "maribong-cms"]
+	path = maribong-cms
+	url = https://github.com/insertend23/maribong-cms.git
+[submodule "maribong-app"]
+	path = maribong-app
+	url = https://github.com/insertend23/maribong-app.git
